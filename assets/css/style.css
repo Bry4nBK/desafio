@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400');
+.card{
+    height: 40%;
+    margin: 5%;
+    margin-top: 20%;
+    font-family: 'Roboto', sans-serif;
+}
+.card img{
+    height: 60%;
+    margin-top: 1%;
+}
+.prezio {
+    text-decoration: none; 
+    text-align: end;
+    color: p;
+   vertical-align: baseline;
+   font-family: 'Roboto', sans-serif;
+}
+.oferta{
+    text-decoration: none;
+    color: red;
+    font-size: 23px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.formulario{
+    background-color: pu;
+    margin-top: 25%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+}
+.formulario button{
+    margin-bottom: 1%;
+}
+footer {
+    text-align: center;
+}
+.form-group {
+    width: 90%;
+    margin-left: 1%;
+    align-content: center;
+}
+.seccion {
+    width: auto;
+    height: auto;
+}
+.bloc-1{
+    font-size: 20px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-top: 12%;
+}
+.bloc-1 p{
+   
+    width: 50%;
+    margin-left: 8%;
+}  
+.bloc-1 img{
+    margin-top: 50px;
+    width: 25%;
+    margin-left: 10%;
+    margin-top: 1%;
+    margin-right: 1%;
+    margin-bottom: 2%;
+    margin-left: 20%;
+}
+
+.contenedor-p {
+    display: flex; 
+    
+}
+
+.iconos{
+    display: flex;
+    font-size: 80px;
+    justify-content: center;
+    gap: 30%;
+    width: 100%; /* Ajusta el ancho de la caja según tus necesidades */
+    height: 200px; /* Ajusta la altura de la caja según tus necesidades */
+    background-color: tu-color-preferido; /* Cambia el color de fondo según tu preferencia */
+    display: flex; /* Ajusta el estilo de visualización para los iconos */
+    justify-content: center; /* Centra los elementos horizontalmente */
+    align-items: center; /* Centra los elementos verticalmente */
+}
+h2{
+    text-align: center;
+}
+.row row-cols-1 row-cols-sm-3 g-4 img{
+    border: 10px palegreen;
+
+}
